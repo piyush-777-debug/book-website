@@ -32,6 +32,15 @@ Authentication is handled via **JWT tokens stored in cookies**.
 
 ---
 
+💻 Built With
+- Backend: Node.js, Express.js
+- Frontend: EJS, Tailwind CSS
+- Database: MongoDB (via Mongoose)
+- Authentication: JWT, bcrypt
+- Middleware: cookie-parser, cors, method-override
+
+---
+
 ## 🛠️ Installation Steps
 
 1️⃣ Clone the repository  
@@ -53,9 +62,3 @@ PORT=5000
 ```bash
 nodemon server.js
 
-💻 Built With
-- Backend: Node.js, Express.js
-- Frontend: EJS, Tailwind CSS
-- Database: MongoDB (via Mongoose)
-- Authentication: JWT, bcrypt
-- Middleware: cookie-parser, cors, method-override
