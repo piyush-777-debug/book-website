@@ -14,10 +14,9 @@ Authentication is handled via **JWT tokens stored in cookies**.
 
 ---
 
-## 📸 Project Screenshots
-
-![project-screenshot](https://drive.google.com/uc?export=view&id=1YbXvW5meoml95ZbO4QwiwlrPoyna9rAw)
-![project-screenshot](https://drive.google.com/uc?export=view&id=1-vQKlsPtZ-dNFyNPEVEktKpCQuxZEBzH)
+<h2>📸 Project Screenshots:</h2>
+<img src="./assests/Screenshot (16).png" alt="One Screenshot" width="800">
+<img src="./assests/Screenshot (18).png" alt="Dashboard Screenshot" width="800">
 
 ---
 
